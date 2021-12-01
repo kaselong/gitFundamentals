@@ -1,0 +1,4 @@
+Terminal Command Cheat Sheet
+ls - list the contents of this directory ( powershell and Terminal
+cd <destination> - change the directory to this destination
+cd .. - move to the parent folder from this folder
